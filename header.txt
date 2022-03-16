@@ -1,4 +1,6 @@
 Some text for header
+changes from <first>
+changes from <master> - new changes!!!
 
 changes from <master> - new changes!!!
 
